@@ -8,12 +8,6 @@
 </div>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adryanmurmel&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-  
-
 ### Main skills:
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="adryan-C" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">

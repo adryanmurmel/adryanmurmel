@@ -7,7 +7,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adryanmurmel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<div align="center" valign="top"><br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adryanmurmel&theme=neon)](https://git.io/streak-stats)
+</div>
 
 ### Main skills:
  <div align="center" style="display: inline_block"><br>
@@ -16,7 +18,7 @@
   <img align="center" alt="adryan-CSS" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="adryan-Python" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="adryan-Git" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</div>
+</div><br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

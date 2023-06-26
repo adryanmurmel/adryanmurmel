@@ -9,13 +9,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adryanmurmel&bg_color=0d1117&color=02a3a4&line=10e6ea&point=004647&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Main skills:
+### Languages and Tools:
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="adryanmurmel-C" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="adryanmurmel-Python" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="adryanmurmel-GitHub" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="adryanmurmel-Git" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="adryanmurmel-Vscode" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+  <img align="center" alt="adryanmurmel-Visual Studio Code" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+  
 </div><br>
 
 <div align="center">

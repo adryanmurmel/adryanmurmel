@@ -1,6 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ADRYAN;I+am+19+years+old;Computer+Science+student+at+UTFPR;I+am+from+Brazil,+PR;Welcome!+:%29)](https://git.io/typing-svg)
+<p>
+  <h1 align="center">
+    <b>Hello, I'm <a href="https://github.com/adryanmurmel">@adryanmurmel</a> </b>
+  </h1>
+  <p align="center">
+    <samp>( "👨‍💻 Programador" | "👨‍🎓 Ciência da computação - UTFPR " | "📍 Brasil" )</samp>
+  </p>
+</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adryanmurmel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adryan Willian Machado Murmel github stats" /> 
@@ -15,8 +21,6 @@
   <img align="center" alt="adryanmurmel-Python" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="adryanmurmel-GitHub" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="adryanmurmel-Git" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="adryanmurmel-Visual Studio Code" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
-  
 </div><br>
 
 <div align="center">

@@ -12,8 +12,6 @@
 ### Main skills:
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="adryanmurmel-C" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="adryanmurmel-HTML" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="adryanmurmel-CSS" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="adryanmurmel-Python" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="adryanmurmel-GitHub" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="adryanmurmel-Git" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">

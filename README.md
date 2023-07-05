@@ -1,7 +1,7 @@
 
 <p>
   <h1 align="center">
-    <b>Hello, I'm Adryan Murmel</a> </b>
+    <b>Hello, I'm Adryan</a> </b>
   </h1>
   <p align="center">
     <samp>( "👨‍💻 Programador" | "👨‍🎓 Ciência da computação - UTFPR " | "📍 Brasil" )</samp>

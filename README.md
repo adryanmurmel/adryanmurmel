@@ -17,10 +17,10 @@
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="adryanmurmel-C" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="adryanmurmel-Python" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="adryanmurmel-HTML5" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adryanmurmel-GitHub" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="adryanmurmel-Git" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="adryanmurmel-JavaScript" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="adryanmurmel-Html" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html5-original.svg">
 
 </div><br>
 

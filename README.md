@@ -20,6 +20,8 @@
   <img align="center" alt="adryanmurmel-GitHub" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="adryanmurmel-Git" height="42" width="48" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="adryanmurmel-JavaScript" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="adryanmurmel-HTML" height="42" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+
 </div><br>
 
 <div align="center">
